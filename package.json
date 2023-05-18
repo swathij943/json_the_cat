@@ -1,0 +1,19 @@
+{
+  "name": "json_the_cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "har-validator": "^5.1.5",
+    "node-fetch": "^3.3.1",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  }
+}
